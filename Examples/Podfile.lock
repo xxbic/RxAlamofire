@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (5.2.0)
+  - Alamofire (5.2.1)
   - RxAlamofire/Core (5.3.1):
     - Alamofire (~> 5.1)
     - RxSwift (~> 5.1)
@@ -28,7 +28,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Alamofire: c1ca147559e730bfb2182c8c7aafbdd90a867987
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
   RxAlamofire: 15502b290253fab68688dafd60914c6390e9cc73
   RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
   RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
